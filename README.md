@@ -63,6 +63,7 @@ To create a back-end for an e-commerce website so that a company can comete with
 ## Tests
 
 ## Contributing
+BCS Learning Assistant and Tutoring #252420 & # 252528
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 https://sequelize.org/docs/v6/
