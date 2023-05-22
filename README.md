@@ -53,17 +53,25 @@ E commerce Back End
 To understand the fundamental architecture of e-commerce sites.
 
 ## LiveLink
+https://drive.google.com/file/d/1NOKGDsm6vWNzwHruTYJD28Dnz2SZYsv5/view
 
 ## Description
 
-To create a back-end for an e-commerce website so that a company can comete with other e-commerce companies.
+To create a back-end for an e-commerce website so that a company can compete with other e-commerce companies.
 
 ## Installation
+Clone the repo, install the dependencies, and run `npm start` to start the server.
+Run Sql in the terminal to create the database.
+Run `npm run seed` to seed the database.
+Run `npm start` to start the server.
+Open Insomnia to test the routes.
+
 
 ## Tests
 
 ## Contributing
 BCS Learning Assistant and Tutoring #252420 & # 252528
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 https://sequelize.org/docs/v6/
@@ -77,6 +85,8 @@ https://sequelize.org/docs/v6/core-concepts/model-basics/#data-types
 
 
 ## Challenge
+The most challenging part of this project was trying to connect the routes to the database.  I had to go back and review the module to get the routes to work.  I also had to
+review the module to get the database to seed. 
 
 ## GitHub
 
